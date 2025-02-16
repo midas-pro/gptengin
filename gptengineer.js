@@ -21,8 +21,8 @@
       HIGHLIGHT_COLOR: "#0da2e7",
       HIGHLIGHT_BG: "#0da2e71a",
       ALLOWED_ORIGINS: [
-        "https://gptengineer.app",
-        "http://localhost:3000",
+        // "https://gptengineer.app",
+        // "http://localhost:3000",
         "https://happy-health-children.netlify.app",
         "http://localhost:8080",
         "http://localhost:8081",
