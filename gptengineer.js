@@ -42,7 +42,7 @@
       SELECTED_ATTR: "data-lov-selected",
       HOVERED_ATTR: "data-lov-hovered",
       OVERRIDE_STYLESHEET_ID: "lovable-override",
-    },
+    }
     var y = (e) => {
       a.ALLOWED_ORIGINS.forEach((t) => {
         try {
