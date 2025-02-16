@@ -20,14 +20,8 @@
   var a = {
       HIGHLIGHT_COLOR: "#0da2e7",
       HIGHLIGHT_BG: "#0da2e71a",
-      ALLOWED_ORIGINS: [
-        // "https://gptengineer.app",
-        // "http://localhost:3000",
+      ALLOWED_ORIGINS: [       
         "https://happy-health-children.netlify.app",
-        "http://localhost:8080",
-        "http://localhost:8081",
-        "https://happy-healthy-children.lovable.app/",
-        "https://lovable.dev",
       ],
       DEBOUNCE_DELAY: 10,
       Z_INDEX: 1e4,
